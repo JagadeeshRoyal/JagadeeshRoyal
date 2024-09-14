@@ -34,8 +34,7 @@
   <h2>👁️ Visit Count</h2>
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=JagadeeshRoyal&icon=0&color=0" alt="Visit Count" style="border-radius: 10px; border: 2px solid #444; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-
+  </a></br>
   <!-- Footer message -->
   <p style="color: #888;"><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --></p>
 
