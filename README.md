@@ -1,4 +1,3 @@
-# <img align="right" alt="Coding" width="400" src="["https://cdn.dribbble.com/users/116207..."](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)">
 # 💫 About Me:
 🔭 I’m currently working on the ABCD Super App at IBM, focused on Java, Spring Boot, and Microservices development.<br>👯 I’m looking to collaborate on innovative backend projects that involve cloud-native microservices, scalability, and performance optimization.<br>🤝 I’m looking for help with Kubernetes orchestration and advanced CI/CD pipeline optimization.<br>🌱 I’m currently learning container orchestration with Kubernetes and exploring cloud infrastructure solutions like AWS and Azure.<br>💬 Ask me about Java, Spring Boot, Microservices, Docker, Kubernetes, and backend architecture best practices.<br>⚡ Fun fact: I’m a tech enthusiast who loves exploring new frameworks, but I also enjoy unwinding with a good sci-fi movie marathon!
 
